@@ -21,7 +21,6 @@ and integrating AI/ML into real-world products.
   <a href="https://github.com/Ridaaa-Khan">GitHub</a> 
 </p>
 
----
 
 ### 👩‍💻 About Me
 
