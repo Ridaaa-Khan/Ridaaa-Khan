@@ -1,24 +1,24 @@
 
 <h1 align="center">Hi, I'm Rida Khan 👋</h1>
 
+<img align="right" 
+     src="https://github.com/user-attachments/assets/54fb7eef-b1e8-41dc-be97-57e4180b3b24"
+     width="300"
+     alt="Developer animation"/>
+
 <h3 align="center">
 Full Stack Developer | Backend Development | AI/ML Enthusiast
 </h3>
 
-<p align="center">
-  Building practical web applications and intelligent systems.
-  Interested in backend engineering, scalable applications,
-  and integrating AI/ML into real-world products.
+<p>
+Building practical web applications and intelligent systems.
+Interested in backend engineering, scalable applications,
+and integrating AI/ML into real-world products.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rida-khan1008">
-    LinkedIn
-  </a>
-  •
-  <a href="https://github.com/Ridaaa-Khan">
-    GitHub
-  </a>
+<p>
+  <a href="https://www.linkedin.com/in/rida-khan1008">LinkedIn</a> •
+  <a href="https://github.com/Ridaaa-Khan">GitHub</a> 
 </p>
 
 ---
@@ -31,16 +31,9 @@ Full Stack Developer | Backend Development | AI/ML Enthusiast
 - 🛠️ Building applications that solve practical problems
 - 📚 Continuously improving problem-solving and DSA skills
 
-### 🚀 Featured Projects
+<br clear="right"/>
 
-| Project | Description |
-|---|---|
-| Maint-IQ | Industrial predictive maintenance platform combining full-stack development and machine learning |
-| WeatherGPT | AI-powered weather assistant with natural-language queries, forecasts and advisories |
-| Eventra | Full-stack event management application |
-| Spendify | Expense management application |
-
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 
 **Languages**
 
