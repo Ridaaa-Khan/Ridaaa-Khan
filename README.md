@@ -19,7 +19,6 @@ Full Stack Developer | Backend Development | AI/ML Enthusiast
   <a href="https://github.com/Ridaaa-Khan">
     GitHub
   </a>
-  •
 </p>
 
 ---
