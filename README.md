@@ -20,9 +20,6 @@ Full Stack Developer | Backend Development | AI/ML Enthusiast
     GitHub
   </a>
   •
-  <a href="https://weather-gpt-srmu.vercel.app/">
-    WeatherGPT Demo
-  </a>
 </p>
 
 ---
