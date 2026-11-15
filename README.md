@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Rida Khan 👋</h1>
 
 <h3 align="center">
-Full Stack Developer | Backend Development | AI/ML Enthusiast
+  Full Stack Developer | Backend Development | AI/ML Enthusiast
 </h3>
 
 <p align="center">
@@ -12,13 +12,9 @@ Full Stack Developer | Backend Development | AI/ML Enthusiast
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rida-khan1008">
-    LinkedIn
-  </a>
+  <a href="https://www.linkedin.com/in/rida-khan1008">LinkedIn</a>
   •
-  <a href="https://github.com/Ridaaa-Khan">
-    GitHub
-  </a>
+  <a href="https://github.com/Ridaaa-Khan">GitHub</a>
 </p>
 
 ---
@@ -31,39 +27,49 @@ Full Stack Developer | Backend Development | AI/ML Enthusiast
 - 🛠️ Building applications that solve practical problems
 - 📚 Continuously improving problem-solving and DSA skills
 
- 
- 🛠️ Tech Stack
+---
 
-**Languages**
+### 🛠️ Tech Stack
 
-JavaScript • Python • SQL
+#### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,mysql" />
+</p>
 
-**Frontend**
+#### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,ejs" />
+</p>
 
-HTML • CSS • JavaScript • React.js • Tailwind CSS
+#### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
-**Backend**
+#### AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
 
-Node.js • Express.js • FastAPI • EJS
-
-**Databases**
-
-MySQL • MongoDB
-
-**AI/ML**
-
-Python • Machine Learning • Gemini API
-
-**Tools**
-
-Git • GitHub • VS Code • Postman
+#### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
 ### 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/rida-khan1008
-- GitHub: https://github.com/Ridaaa-Khan
+<p align="center">
+  <a href="https://www.linkedin.com/in/rida-khan1008">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ridaaa-Khan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
